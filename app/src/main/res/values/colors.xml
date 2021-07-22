@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="attacke">#FFE9F58C</color>
+    <color name="cheer">#FFB9F283</color>
+    <color name="menta_refresh">#FF78EB81</color>
+    <color name="veronica">#FF47D693</color>
+    <color name="hippie_lilac_petals">#FF6451DB</color>
 </resources>
